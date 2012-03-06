@@ -25,7 +25,7 @@
         //    [self.window.rootViewController.view addSubview:firstPage.view];
         //    [self.window.rootViewController.view addSubview:tabBar.view];
         [self.view addSubview:tabBar.view];
-
+//
         //*/
 //        [self.window makeKeyAndVisible];
 
