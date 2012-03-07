@@ -1,0 +1,25 @@
+Global setup:
+ Set up git
+  git config --global user.name "Your Name"
+  git config --global user.email zcl369369@163.com
+      
+Next steps:
+  mkdir our_truth_2012
+  cd our_truth_2012
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:zhaogyrain/our_truth_2012.git
+  git push -u origin master
+      
+Existing Git Repo?
+  cd existing_git_repo
+  git remote add origin git@github.com:zhaogyrain/our_truth_2012.git
+  git push -u origin master
+      
+Importing a Subversion Repo?
+  Click here
+      
+When you're done:
+  Continue
